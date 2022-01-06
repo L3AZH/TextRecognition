@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "567602110584",
+    "firebase_url": "https://ditmecuu.firebaseio.com",
+    "project_id": "ditmecuu",
+    "storage_bucket": "ditmecuu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567602110584:android:c68f95ff5d8e3f75314d8d",
+        "android_client_info": {
+          "package_name": "com.samapps310.textrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567602110584-21v7inqu54o0mal2onk0paeetj8263t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuY-Y45M8r8EtksPzqvqtLYfj17W7S0z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567602110584-21v7inqu54o0mal2onk0paeetj8263t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
